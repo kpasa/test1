@@ -10,5 +10,7 @@ int main(int argc, char *argv[]) {
 	
 	rect.a = 3;
 	rect.b = 4;
+	
+	printf("Area = %ld\n",Rectangle_Area(&rect));
 	return 0;
 }
