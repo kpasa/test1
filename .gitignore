@@ -59,6 +59,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.layout
 
 # External tool builders
 .externalToolBuilders/
