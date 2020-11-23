@@ -6,6 +6,9 @@
 *.apconfig
 
 *.pdf
+*.layout
+*.exe
+*.o
 
 ##Standard C gitignore
 # Object files
