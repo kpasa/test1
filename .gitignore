@@ -1,15 +1,11 @@
 ## CodeWarrior things
-Documentation
-FLASH
-Generated_Code
-RemoteLaunch
-RemoteSystemsTempFiles
+
 .cwGeneratedFileSetLog
 .*.g_*
 *.traceConfig
 *.apconfig
-101_workspace/
 
+*.pdf
 
 ##Standard C gitignore
 # Object files
